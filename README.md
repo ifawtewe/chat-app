@@ -2,7 +2,7 @@
 **project name : chat application**
 
 Software required:
-1.android studio
+1.android studio</br>
 2.Android SDK
 3.JDK( java Devalopment Kit )
 4.Android AVD  
