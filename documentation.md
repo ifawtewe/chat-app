@@ -1,16 +1,22 @@
-#chat-app
+# chat-app
+
+
 **project name __chat application__ **
 
 
-##members
+## teacher:
 
-*fatemeh sadat hosseini
+**dr Alinaghipour**
 
-*fatemeh dehghan
+## members:
 
-*fatemeh hamzehnezhad
+* fatemeh sadat hosseini *
 
-##Software required:
+* fatemeh dehghan *
+
+* fatemeh hamzehnezhad *
+
+## Software required:
 
 
 1.android studio
@@ -26,8 +32,7 @@
 
 
 ----------------------------------------------------------------------------------------------------------------------------
-Programming language: java
-
+The main purpose of this article is how to implement a messaging software.  In this article, Google Firebase database service has been used to implement this messenger, which has simplified the work for designing this software. In fact, with this tool, you will no longer need to design a database and write complex queries.
 
 ----------------------------------------------------------------------------------------------------------------------------
 The software that is completed at the end of this design project will have the following capabilities:
