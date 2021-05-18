@@ -1,7 +1,16 @@
-# chat-app
+#chat-app
 **project name __chat application__ **
 
-*Software required:
+
+##members
+
+*fatemeh sadat hosseini
+
+*fatemeh dehghan
+
+*fatemeh hamzehnezhad
+
+##Software required:
 
 
 1.android studio
